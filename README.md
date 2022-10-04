@@ -1,4 +1,6 @@
-# The-role-of-Artificial-Intelligence-in-future-technology
+# The role of Artificial Intelligence in future technology
+
+## Abstract
 
 Artificial intelligence (AI) has evolved significantly in recent years. The goal of this study is to understand
 current achievements and estimate their influence on future technologies. In this investigation, we begin by
